@@ -32,8 +32,8 @@
 ## ⚙️ Tech Info
 
 - **Language:** C++17
-- CLion IDE with Clang++ on MacOS
-- CMake Build System
+- **CLion IDE with Clang++ on MacOS**
+- **CMake Build System**
 - **Design:** Object-Oriented ( Rich Classes ) , Pascal Naming Style
 
 
